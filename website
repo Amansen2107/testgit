@@ -1,0 +1,121 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+        <style>
+
+        </style>
+    </head>
+    <body>
+        <section class="h-100 gradient-form" style="background-color: rgb(20, 146, 225);">
+            <div class="container py-5 h-100">
+              <div class="row d-flex justify-content-center align-items-center h-80">
+                <div class="col-xl-12">
+                  <div class="card rounded-3 text-black">
+                    <div class="row g-0">
+                      <div class="col-lg-6">
+                        <div class="card-body p-md-5 mx-md-4">
+          
+                          <div class="text-center">
+                            <img src="D:\CSS\s1.jpg"
+                              style="width: 200px; height:150px " alt="logo">
+                            <h4 class="mt-1 mb-5 pb-1">Welcome To New Era Of Banking</h4>
+                          </div>
+          
+                          <form>
+                            <p>Please login to your account</p>
+
+                         
+                       
+
+                            <div class="input-group mb-3">
+                                <div class="input-group-prepend">
+                                  <label class="input-group-text" for="inputGroupSelect01">User Type</label>
+                                </div>
+                                <select class="custom-select" id="inputGroupSelect01">
+                                  <option selected>Choose...</option>
+                                  <option value="1">Account Holder</option>
+                                  <option value="2">Operation Maker</option>
+                                  <option value="3">Operation Maker</option>
+                                </select>
+                              </div>
+                        
+                            
+          
+                            <div class="form-outline mb-4">
+                                
+                                <input type="email" id="form2Example11" class="form-control" placeholder="Phone number or email address" />
+                              
+                            </div>
+          
+                            <div class="form-outline mb-4">
+                              <input type="password" id="form2Example22" class="form-control" placeholder="Password" />
+                        
+                            </div>
+          
+                            <div class="text-center pt-1 mb-5 pb-1">
+                              <button class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3" type="button">Log
+                                in</button>
+                              <a class="text-muted" href="#!">Forgot password?</a>
+                            </div>
+          
+                            <div class="d-flex align-items-center justify-content-center pb-4">
+                              <p class="mb-0 me-2">Don't have an account?</p>
+                              <button type="button" class="btn btn-outline-danger">Create new</button>
+                            </div>
+          
+                          </form>
+          
+                        </div>
+                      </div>
+                      <div class="col-lg-6 d-flex align-items-center gradient-custom-2" style="background-color: rgb(121, 209, 44) ;">
+                        <div class="text-black px-3 py-4 p-md-5 mx-md-4">
+                          <h4 class=" text-center mb-4">We are more than just a company</h4>
+                          <br>
+                            <div class="card" style="width: 20rem;">
+                            
+                                <div class="card-body">
+                                    <h5 class="card-title">Zero Carbon Emissions</h5>
+                                    <p class="card-text">The world must reach net-zero carbon emissions by 2050 to stave off the worst effects
+                                        of climate change.</p>
+                                    <a href="#" class="btn btn-secondary stretched-link"></a>
+                                </div>
+                            </div>
+                            <br>
+
+                         
+
+                            <div class="card" style="width: 20rem;">
+                            
+                                <div class="card-body">
+                                    <h5 class="card-title">85 - Precent</h5>
+                                    <p class="card-text">
+                                        We aim to reduce absolute financed thermal coal mining emissions by 85 per cent by 2030.</p>
+                                    <a href="#" class="btn btn-secondary stretched-link"></a>
+                                </div>
+                            </div>
+                            <br>
+
+                            <div class="card" style="width: 20rem;">
+                            
+                                <div class="card-body">
+                                    <h5 class="card-title">New Products</h5>
+                                    <p class="card-text">
+                                        We are deploying a Transition Acceleration Team and launching new products and partnerships.</p>
+                                    <a href="#" class="btn btn-secondary stretched-link"></a>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                            
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        
+    </body>
+</html>
